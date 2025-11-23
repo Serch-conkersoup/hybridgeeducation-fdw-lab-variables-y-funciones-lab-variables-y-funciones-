@@ -6,6 +6,7 @@
 // invertirCadena("anita lava la tina") // debe retornar "anit al aval atina"
 
 function invertirCadena(cadena) {
+    return cadena.split("").reverse().join("");
     // Escribe tu código aquí
 }
 
