@@ -2,7 +2,7 @@
 // Modifica la siguiente función creando una nueva variable llamada nombre y asignándole tu nombre. La función debe retornar esta nueva variable que contiene tu nombre
 
 function obtenerNombre() {
-  return "Sergio Angel"; // Escribe tu código aquí
+  return "Sergio Angel"; 
 }
 
 // No modificar.
